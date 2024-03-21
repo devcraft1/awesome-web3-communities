@@ -36,7 +36,7 @@ Your [contributions](contributing.md) are always welcome!
 | Web3 India                           | Empowering the Indian Web3 ecosystem through education and collaboration        | [web3india.org](https://web3india.org/)                     | [Discord](discord.gg/web3-india), [Twitter](twitter.com/web3india)                | Asia          | India     |
 | Blockchain Australia                 | Promoting blockchain technology and its applications in Australia               | [blockchainaustralia.org](https://blockchainaustralia.org/) | [Discord](discord.gg/blockchain-australia), [Twitter](twitter.com/blockchainau)   | Oceania       | Australia |
 
-## More ?
+## More?
 
 Follow on your favorite social media to get daily updates on interesting GitHub repositories related to Security.
 
@@ -45,4 +45,4 @@ Follow on your favorite social media to get daily updates on interesting GitHub 
 
 ## Contributions
 
-Please have a look at [contributing.md](contributing.md). |
+Please have a look at [contributing.md](contributing.md).
