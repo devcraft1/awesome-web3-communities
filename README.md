@@ -1,12 +1,12 @@
 ![Awesome Web3Communities](web3-communities.png)
 
-# [Awesome Web3Communities](https://github.com/devcraft1/awesome-web3-communities) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Awesome%20Web3Communities%20-%20a%20A%20curated%20list%20of%20awesome%20web3%2communities%20by%20@Web3Communities&url=https://github.com/devcraft1/awesome-web3-communities)
+# [Awesome Web3Communities](https://github.com/devcraft1/awesome-web3-communities)
 
 **A curated list of awesome web3 communities.**
 
 Your [contributions](contributing.md) are always welcome!
 
-### Awesome Communities
+### Awesome Web3 Communities
 
 ## Ethereum
 
@@ -35,13 +35,6 @@ Your [contributions](contributing.md) are always welcome!
 | Blockchain Middle East               | Supporting blockchain adoption and innovation in the Middle East                | [blockchainme.org](https://blockchainme.org/)               | [Discord](discord.gg/blockchain-me), [Twitter](twitter.com/blockchainme)          | Middle East   | -         |
 | Web3 India                           | Empowering the Indian Web3 ecosystem through education and collaboration        | [web3india.org](https://web3india.org/)                     | [Discord](discord.gg/web3-india), [Twitter](twitter.com/web3india)                | Asia          | India     |
 | Blockchain Australia                 | Promoting blockchain technology and its applications in Australia               | [blockchainaustralia.org](https://blockchainaustralia.org/) | [Discord](discord.gg/blockchain-australia), [Twitter](twitter.com/blockchainau)   | Oceania       | Australia |
-
-## More?
-
-Follow on your favorite social media to get daily updates on interesting GitHub repositories related to Security.
-
-- Twitter : [@Web3Communities](https://twitter.com/web3Communities)
-- Facebook : [Web3Communities](https://www.facebook.com/web3Communities)
 
 ## Contributions
 
